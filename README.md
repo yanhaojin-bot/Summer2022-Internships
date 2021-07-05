@@ -7,8 +7,8 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 
 ## The List 👔
 
-| Name  |  Location |  Notes |
-|---|---|-------------|
+| Name  |  Location |  Notes | Status |
+|---|---|-------------|---|
 | [Amazon](https://www.amazon.jobs/en/jobs/1557929/software-development-engineer-internship-summer-2022-us) | Seattle, Washington | SWE Intern (2022 summer) |
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) |
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
