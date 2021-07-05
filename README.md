@@ -2,8 +2,10 @@
 And we're back 😤🎉! Use this repo to share and keep track of any tech-related internships. Huge shout-out to [GintasS](https://github.com/GintasS) for being an absolute beast last year. 
 
  📈 For more tips on the internship process check out the [Zero to Offer program here](https://www.pittcs.wiki/zero-to-offer).  📈
+ 
+🎓 Check out our New Grad repo [here](https://github.com/coderQuad/New-Grad-Positions-2022).
 
-🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
+🤗 **Contribute by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or [filling out this form](https://bit.ly/3d5O76c)!**  🤗
 
 ## The List 👔
 
@@ -37,10 +39,20 @@ And we're back 😤🎉! Use this repo to share and keep track of any tech-relat
 |[RBC Capital Markets](https://jobs.rbc.com/ca/en/job/RBCAA0088327043EXTERNALENCA/2022-Technology-Summer-Analyst-Program) | NYC | |
 |[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/Arrowstreet/0/refreshFacet/318c8bb6f553100021d223d9780d30be) | Boston, MA | Quant | 
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3198333) | San Francisco, CA | SWE Internship | 
-|[Target](https://jobs.target.com/job/-/-/1118/9468869552) | Minneapolis, MN | |
+| Target | | **Closed** |
 |[BNP Paribas](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-1/brand-4/xf-e138f59a0427/candidate/so/pm/1/pl/2/opp/489-2022-Summer-Analyst-Internship-Technology/en-GB) | Various | Other positions [here](https://bnppus.tal.net/vx/lang-en-GB/mobile-0/appcentre-ext/brand-4/xf-5db317b8ad85/candidate/jobboard/vacancy/2/adv/?ftq=2022) |
 |[MealMe](https://www.mealme.ai/software-internship) | Not displayed | |
 |[Apple](https://jobs.apple.com/en-us/details/200253195/software-engineering-internship?team=STDNT) | Cupertino, CA | |
+|[Facebook](https://www.facebook.com/careers/v2/jobs/946116176191468/)| Various| SWE Internship/Co-op |
+|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html)| Various| Summer Analyst Program |
+|[BlackRock](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-362ee664293b/candidate/so/pm/1/pl/1/opp/4821-Summer-Analyst-Program-Americas/en-GB)| Various| Summer Analyst Program Note: Requires CodeVue(Programming Test+Video recording) submission up to 96 Hours after application submission. |
+|[Bank of America](https://bankcampuscareers.tal.net/vx/brand-4/candidate/so/pm/1/pl/1/opp/7140-Global-Technology-Summer-Analyst-Program-2022/en-GB)| Various| Global Technology Summer Analyst Program |
+|[Two Sigma](https://careers.twosigma.com/careers/JobDetail?jobId=8471) | NYC | SWE Internship | 
+|[Cigna](https://jobs.cigna.com/us/en/job/21012002/Cigna-Technology-Early-Career-Development-Program-TECDP-Summer-Intern-2022-Evergreen) | Various | Application Developer, Infrastructure Engineer, Network Engineer and other Intern positions are available. Internship is open only to individuals who are eligible for employment in the United States and who would not require visa sponsorship now or in the future. | 
+|[Bracebridge Capital](https://phh.tbe.taleo.net/phh02/ats/careers/v2/viewRequisition?org=BRACEBRIDGE_CAPITAL&cws=41&rid=246) | Boston, MA | Investment Analyst position is available. |
+|[Federated Insurance](https://careers-federatedinsurance.icims.com/jobs/3098/it-systems-developer-intern---summer-2022/job?mode=job&iis=SOURCE&iisn=LinkedIn&mobile=false&width=1887&height=500&bga=true&needsRedirect=false&jan1offset=120&jun1offset=180) | Owatonna, MN | IT-Systems Developer Intern position is available. | 
+|[US Ventures](https://usventure.wd1.myworkdayjobs.com/USVExternal/job/WI---Green-Bay/Software-Engineering-Intern_REQ-007655) | Green Bay, WI | |
+| [Amazon AWS](https://www.amazon.jobs/en/search?base_query=Summer+2022&loc_query=&latitude=&longitude=&loc_group_id=&invalid_location=false&country=&city=&region=&county=) | Various | [Software Development Engineer](https://www.amazon.jobs/en/jobs/1612067/software-development-engineer-intern-summer-2022-us), [Cloud Support Associate](https://www.amazon.jobs/en/jobs/1608042/cloud-support-associate-intern-summer-2022-us), [Assoc Customer Solutions Manager](https://www.amazon.jobs/en/jobs/1609945/assoc-customer-solutions-manager-intern-summer-2022-us) and other Intern positions are available. |
 
 **We love our contributors ❤️❤️** 
 
@@ -67,3 +79,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [ankasengupta](https://github.com/ankasengupta)
 * [yiyangiliu](https://github.com/yiyangiliu)
 * [monishshah18](https://github.com/monishshah18)
+* [Josh0823](https://github.com/Josh0823)
