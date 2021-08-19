@@ -15,27 +15,18 @@ Use this repo to share and keep track of tech internships for Summer 2022. List 
 | [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3015374) | NYC, Chicago, London | SWE, [Algo Internship](https://www.hudsonrivertrading.com/careers/job/?gh_jid=3008603) | 8/1 apply
 | [Bridgewater Associates](https://boards.greenhouse.io/bridgewater89/jobs/4076389002) | Westport, CT | |
 | [Credit Suisse](https://tas-creditsuisse.taleo.net/careersection/campus/moresearch.ftl) | Raleigh, NYC | Search `"2022 Americas Technology Summer Analyst Program"`| 8/1 apply  <br>8/4 OA invite
-| <del>BlackStone</del> | | **Closed** |
+| <del>BlackStone</del> | | **Closed
 | <del>PWC</del> | | **Closed** |
 | [AQR](https://careers.aqr.com/jobs/department/university-jobs#/) | Greenwich, CT | Research, Portfolio Implementation |
 | [Optiver](https://www.optiver.com/working-at-optiver/career-opportunities/?filter-level=internship) | Various | Positions in Software Engineering and Trading. Will not sponsor individuals for employment authorization for these job openings. |
 | [Caterpillar](https://caterpillarcareers.ttcportals.com/jobs/6533463-2022-engineering-summer-intern-product-development?tm_job=R0000026191&tm_event=view&tm_company=2539&bid=370&src=SNS-100100) | Illinois | |
 |[Schneider Downs](https://schneiderdowns.csod.com/ats/careersite/JobDetails.aspx?id=474&site=4) | Pittsburgh, PA | IT Intern, Cybersecurity Intern. |
-<<<<<<< HEAD
 |[GE](https://jobs.gecareers.com/global/en/search-results) | Various | [GE Aviation Aviation Systems](https://jobs.gecareers.com/global/en/job/R3560419/GE-Aviation-Aviation-Systems-Intern-Summer-2022), [GE Gas Power Digital Technology](https://jobs.gecareers.com/global/en/job/R3558732/Gas-Power-Digital-Technology-Intern-2022) and other Intern positions are available. Some roles are restricted to U.S. persons only or those who are legally authorized to work in the United States. |
 |[Second Order Effects](https://boards.greenhouse.io/soeffects/jobs/4311435003) | El Segundo, CA | Applicant must be a U.S. citizen or eligible to obtain the required authorizations from the U.S. Department of State. |
 |[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program. Note: Requires HireVue submission up to 72 hours after application submission.  | 
 |[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
 | <del>Audible</del> | |  **Closed** |
 |[KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/1/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Keydotcom) | Various | [Enterprise Security](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Plymouth-Meeting-PA/Summer-2022-Key-Technology--Operations---Services--Internship--Enterprise-Security-Track-_R-755?source=Keydotcom), [Enterprise Payments](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2022-Enterprise-Payments-Summer--Intern_R-743?source=Keydotcom), [Technology](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Buffalo-NY/Summer-2022-Key-Technology--Operations---Services--Internship--Technology-Track-_R-751?source=Keydotcom) and other Intern positions are available. Some positions may NOT be eligible for employment visa sponsorship for non-U.S. citizens. |
-=======
- |
-|
-|[Morgan Stanley](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-3168256/xf-a7aeef94da1e/candidate/so/pm/1/pl/1/opp/11401) | NYC | Technology Summer Analyst Program. Note: Requires HireVue submission up to 72 hours after application submission.  | 
-|[Bessemer Ventures Fellowship](https://www.bvp.com/bessemer-fellows) | Various | |
-| <del>Audible</del> | |  **Closed** |
-|[KeyBank](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/1/refreshFacet/318c8bb6f553100021d223d9780d30be?source=Keydotcom) | Various | [Enterprise Security](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Plymouth-Meeting-PA/Summer-2022-Key-Technology--Operations---Services--Internship--Enterprise-Security-Track-_R-755?source=Keydotcom), [Enterprise Payments](https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2022-Enterprise-Payments-Summer--Intern_R-743?source=Keydotcom),  |
->>>>>>> temp
 |[General Motors](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/0/refreshFacet/318c8bb6f553100021d223d9780d30be)| Warren, MI | [Hardware Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Hardware-Engineering-Internship-Program_JR-000045485), [Software Engineering](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Global-Product-Development---Software-Engineering-Internship-Program_JR-000045488) Intern positions are available. Please only apply if you do not need sponsorship to work in the United States now or in the future. We are unable to consider candidates who require sponsorship. |
 |[Susquehanna (SIG)](https://careers.sig.com/job/5439/Software-Engineering-Internship-Program-Summer-2022) | Bala Cynwyd, PA | Software Engineering Internship. Visa sponsorship is available for this position. |
 |[Five Rings](https://fiverings.avature.net/careers/SearchJobs/?splitLocationSearch_country=233&524=534&524_format=523&listFilterMode=1&folderRecordsPerPage=6&) | NYC | Software, Trading, Research Internships |
