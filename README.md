@@ -71,7 +71,7 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Citadel Securities](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us) | Chicago, NYC | |
 |[Microsoft](https://careers.microsoft.com/students/us/en/job/1085294/Software-Engineering-Intern-Opportunities) | Various |
 |[Aldridge Electric](https://aldridge.csod.com/ux/ats/careersite/9/home?c=aldridge) | Libertyville, IL | [IT](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/553?c=aldridge), [Developer](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/550?c=aldridge), [Agile](https://aldridge.csod.com/ux/ats/careersite/9/home/requisition/549?c=aldridge) Intern positions are available. |
-|[VMware](https://careers.vmware.com/internships/jobs/R2115680?lang=en-us) | Various | Intern - Member of Technical Staff - Software Engineering. |
+|<del>VMware</del> | Various | **Closed** | 
 |[Fifth Third Bank](https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---Summer-2022---Cincinnati_R21485?source=LinkedIn) | Cincinnati, OH | IT Leadership Program. |
 |[Red Ventures](https://careers.redventures.com/positions.html?team=college&office=&brand=) | Various | Various Positions related to Software Engineer, Business Analyst Internships |
 |[Prudential Financial](https://prudential.eightfold.ai/careers?query=2022&domain=prudential.com&pid=7785614&hl=en) | Newark, NJ | [Coding & Software Development](https://prudential.eightfold.ai/careers?pid=7768293&query=2022&domain=prudential.com&hl=en), [IT](https://prudential.eightfold.ai/careers?pid=7769005&query=2022&domain=prudential.com), [Data & Business Analyst](https://prudential.eightfold.ai/careers?pid=7771140&query=2022&domain=prudential.com&hl=en) Intern positions are available. Successful candidates must possess the requisite US employment authorization to be eligible for consideration. |
@@ -281,8 +281,8 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Duke Energy Corporation](https://dukeenergy.wd1.myworkdayjobs.com/en-US/search/job/Charlotte-NC/XMLNAME-2022-Summer-Internship---Information-Technology_R17327-1) | Charlotte, NC | Information Technology Intern |
 |[ByteDance](https://www.linkedin.com/jobs/view/2709287898/) | Mountain View, CA | Software Engineer Intern |
 |[Nutrien](https://retailcareers-nutrien.icims.com/jobs/14787/intern%2c-digital-agronomy-and-data-science/job?mode=job&iis=Job+Posting&iisn=LinkedIn&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Champaign, IL | Data Science Intern |
-|[Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern | 9.21 apply 9.24 OA invitation
-|[Intel](https://jobs.intel.com/ShowJob/Id/3056085/Automation%20Software%20Engineer%20Graduate%20Intern) | Phoenix, AZ | Automation Software Engineer Graduate Intern, must be pursuing Masters/PHD |
+|[Expedia](https://expedia.wd5.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Intern---Software-Development-Engineer---Austin_R-64062/?source=handshakesourced) | Austin, TX; Chicago, IL; Seattle, WA | Software Development Engineer Intern |  9.21 apply 9.24 OA invitation
+|[Intel](https://jobs.intel.com/ShowJob/Id/3100682/GPU-Deep-Learning-Software-Engineer-(Intern)) | Santa Clara, CA | GPU Deep Learning Software Engineer Intern, must be pursuing Masters/PHD |
 |[Pocket Gems](https://www.linkedin.com/jobs/view/2709728782/?refId=850a8614-492f-334e-b8ad-37c793af3dc9)| San Francisco, CA | Software Engineer Intern |
 |[Neeva](https://jobs.lever.co/neeva/1fa8aa94-c787-4dc6-b487-d254a91dcca6) | Mountain View, CA | |
 |[SpaceX](https://boards.greenhouse.io/spacex/jobs/5526757002) | Multiple Locations | Software Engineer Inter/Coop; US Citizen Only |
@@ -332,7 +332,14 @@ Use this repo to share and keep track of software, tech, CS, PM, quant internshi
 |[Intuitive](https://careers.intuitive.com/us/en/job/214284/Computer-Science-Computer-Engineering-Intern) | Sunnyvale, CA | Computer Science/Computer Engineering Intern. | 9.20 apply
 |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/f6205ccb-ee15-4669-b8f4-0b773c974c02-2022-engineering-internships-north-america-latin-america) | San Francisco, CA | SWE, Machine Learning, Data Science internships and more! | 9.20 apply 9.20 OA invitation 9.24 OA
 |[Workday](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Various | SDE, SDET, Application, BA, Product, etc. |
-
+|[Epic Games](https://www.epicgames.com/site/en-US/students) | US | Various intern positions in software engineering, game design, analytics, etc.|
+|[Pacific Northwest National Laboratory (PNNL)](https://pnnl.jobs/jobs/?q=Intern) | US | Various positions  (search intern to view intern openings) |
+|[Instabase](https://instabase.com/careers/?gh_jid=5498192002) | SF; Menlo Park; New York City | Backend, FullStack, ML | 
+|[Red Hat](https://global-redhat.icims.com/jobs/89903/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting) | Remote | Software Engineering Internship |
+|[DataChat](https://datachat.bamboohr.com/jobs/view.php?id=26&source=aWQ9MTk%3D) | Madison, WI | Software Engineer Internship |
+[HashiCorp](https://www.hashicorp.com/job/3473291?gh_src=a8bc2ad21) | United States (Remote) | Software Engineering Intern |
+[Brex](https://www.brex.com/careers/engineering/5568153002?gh_jid=5568153002) | United States (Remote) | Software Engineering Intern |
+[Atlassian](https://jobs.lever.co/atlassian/d1ff09b6-1405-450b-8765-ed8306a4e411?trid=1e0b9127-2df6-4b3d-8bc4-d81ae332a601) | Mountain View, US | Software Engineer Intern. Will not sponsor individuals for employment authorization for this job opening.
 
 **We love our contributors ❤️❤️**
 
@@ -390,3 +397,4 @@ Fill [this form](https://bit.ly/3d5O76c) or make a [pull request](https://github
 * [allen-tran](https://github.com/allen-tran)
 * [BaoLongNguyenUMD](https://github.com/BaoLongNguyenUMD)
 * [nimeshnischal](https://github.com/nimeshnischal)
+* [tson1111](https://github.com/tson1111)
